@@ -57,17 +57,17 @@ My Classwork solutions for Programming Systems and Tools (CS580U)
 
 - Doubly Linked List using list and node structures
 
-- Supporting operations on the doubly linked list: 
+    - Supporting operations on the doubly linked list: 
 
-Create, Insert, Delete, Read, Empty, SearchForward, SearchBackward
+       - Create, Insert, Delete, Read, Empty, SearchForward, SearchBackward
 
 - Stack as a wrapper for linked list
 
-- Supporting operations on  the stack: push, pop
+    - Supporting operations on  the stack: push, pop
 
 - Queue as a wrapper for linked list
 
-- Supporting operations on the queue: enqueue, dequeue
+    - Supporting operations on the queue: enqueue, dequeue
 
 **Program7: Binary Search Trees**
 
@@ -75,7 +75,7 @@ Binary Search Tree
 
 - Supporting operations on the BST: 
 
-Insert, Search, Remove data(leaf, shortCircuit, promotion), Sort, Comapare, Clone, Delete tree
+    - Insert, Search, Remove data(leaf, shortCircuit, promotion), Sort, Comapare, Clone, Delete tree
 
 **Program8: Building a Heap**
 
@@ -83,4 +83,4 @@ Insert, Search, Remove data(leaf, shortCircuit, promotion), Sort, Comapare, Clon
 
 - Supporting operations on the min-heap:
 
-Initialize, Remove priority, Siftdown, Heapify
+   - Initialize, Remove priority, Siftdown, Heapify
